@@ -92,13 +92,13 @@ print(result)
 # finding centered avg num from sorted/unsorted list
 
 def centered_avg(my_list):
-    sum = 0
+    s = 0
     count = 0
     new_list = my_list.sort()
     for i in range(1, len(my_list)-1):
-        sum = sum + my_list[i]
+        s = s + my_list[i]
         count = count + 1
-    return sum / count
+    return s / count
 
 a_list = [1, 7, 6, 5, 8, 2, 3, 4, 10, 40]
 
