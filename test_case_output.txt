@@ -1,0 +1,108 @@
+Name: Asus g14
+ Price:130000
+ Weight: 1.6
+Color: Moonlight Silver
+ RAM: 16
+ CPU: Ryzen 4800H
+Storage: 1000
+
+Name: iphone_11
+ Price:60000
+ Weight: 500
+Color: Black
+ Screen: 1920-1080
+ Camera: 10
+
+45000
+Total products: 6
+Shipping Cost will be 14.0
+130000
+260000
+Name: Dell XPS 13
+ Price:140000
+ Weight: 1.4
+Color: White
+ RAM: 16
+ CPU: Intel Core i7
+Storage: 512
+
+Name: Dell XPS 13
+ Price:150000
+ Weight: 1.4
+Color: White
+ RAM: 32
+ CPU: Intel Core i7
+Storage: 1000
+
+Selling iphone_11
+Selling iphone_12
+Selling Asus g14
+Selling Macbook Pro 13
+The number of products sold: 4
+-------------------------------------------------------
+Product Sold: 
+Name: iphone_11
+ Price:45000
+ Weight: 500
+Color: Black
+ Screen: 1920-1080
+ Camera: 10
+
+Name: iphone_12
+ Price:70000
+ Weight: 550
+Color: Silver
+ Screen: 1920-1080
+ Camera: 12
+
+Name: Asus g14
+ Price:260000
+ Weight: 1.6
+Color: Moonlight Silver
+ RAM: 16
+ CPU: Ryzen 4800H
+Storage: 1000
+
+Name: Macbook Pro 13
+ Price:130000
+ Weight: 1.7
+Color: Dark Grey
+ RAM: 8
+ CPU: Intel Core i5
+Storage: 256
+
+-------------------------------------------------------
+Commission: 101000.0
+-------------------------------------------------------
+Product Sold: 
+Name: Asus g14
+ Price:260000
+ Weight: 1.6
+Color: Moonlight Silver
+ RAM: 16
+ CPU: Ryzen 4800H
+Storage: 1000
+
+Name: Macbook Pro 13
+ Price:130000
+ Weight: 1.7
+Color: Dark Grey
+ RAM: 8
+ CPU: Intel Core i5
+Storage: 256
+
+Name: iphone_12
+ Price:70000
+ Weight: 550
+Color: Silver
+ Screen: 1920-1080
+ Camera: 12
+
+Name: iphone_11
+ Price:45000
+ Weight: 500
+Color: Black
+ Screen: 1920-1080
+ Camera: 10
+
+-------------------------------------------------------
