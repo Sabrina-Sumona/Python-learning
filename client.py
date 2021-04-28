@@ -64,9 +64,3 @@ print(sales_person_1.calculate_commission(0.2))
 # Sort the sold products by price
 sales_person_1.sort_by_price()
 sales_person_1.display_sales()
-
-
-
-
-
-

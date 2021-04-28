@@ -41,6 +41,3 @@ print_toy_objects(toys_again)
 
 sorted_toys_again = sorted(toys, key=lambda x: x.price)
 print_toy_objects(sorted_toys_again)
-
-
-

@@ -55,7 +55,7 @@ class MaidBot(HouseBot):
         self.cooking = cooking
 
 
-m = MaidBot('a',1.1, 10, 'noodles')
+m = MaidBot('a', 1.1, 10, 'noodles')
 
 houseBot = HouseBot('Bob', 1.1, 50)
 robo = Robot('Stan lee', 1.5)
@@ -73,15 +73,13 @@ robo = Robot('Stan lee', 1.5)
 # print(help(Robot))
 # print(help(HouseBot))
 
-# print(issubclass(HouseBot, Robot))
-# print(issubclass(Robot, HouseBot))
-# print(issubclass(Robot, object))
-# print(issubclass(HouseBot, object))
-# #
+print(issubclass(HouseBot, Robot))
+print(issubclass(Robot, HouseBot))
+print(issubclass(Robot, object))
+print(issubclass(HouseBot, object))
+
 print(isinstance(houseBot, Robot))
 print(isinstance(houseBot, HouseBot))
 
 print(isinstance(houseBot, object))
 print(isinstance(robo, object))
-
-

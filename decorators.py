@@ -62,5 +62,3 @@ print_something_more(1, 2)
 
 # decorated_f = decorator(print_something)
 # decorated_f()
-
-

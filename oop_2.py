@@ -37,8 +37,8 @@ class StoryBook:
 
     # CLASS METHOD 2
     @classmethod
-    def construct_from_string(cls, book_str):
-        name, price, author_name, author_born, pages = book_str.split(',')
+    def construct_from_string(cls, books_str):
+        name, price, author_name, author_born, pages = books_str.split(',')
 
         return cls(name, price, author_name, author_born, pages)
 
