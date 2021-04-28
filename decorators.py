@@ -11,6 +11,9 @@ def outer(message):
 # f = outer("Hello world")
 # f()
 
+# f(f1) => f1 passing
+# f(f1()) => f1 calling
+
 def decorator(original_func):
 
     print('In the decorator function\n')
